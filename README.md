@@ -1,6 +1,10 @@
 # GPT-Interview-Bot
 GPT-3.5 App that answers personalized questions on behalf of myself!
 
+![GPTInterviewGIF4(cropped)](https://user-images.githubusercontent.com/75395781/229035812-dfe069a6-5b17-445c-af32-cf78ba638f85.gif)
+
+<!--![GPTInterviewGIF4](https://user-images.githubusercontent.com/75395781/229034616-109b8cda-af2a-4978-8f6c-c06d023cdca4.gif)-->
+
 ## <a>DEMO LINK COMING SOON!</a>
 
 # What is this?
@@ -20,7 +24,7 @@ Over the next few months, I brainstormed how I could accomplish this. ChatGPT is
 ![ReadmeGPTInterviewBotAnnotated](https://user-images.githubusercontent.com/75395781/229025816-c2d3176a-8862-4dc6-ba35-8067c45e7b04.png)
 
 
-The chatbot is built using the GPT-3 language model by OpenAI. When a user asks a question, the chatbot processes the message, and adds on a custom "pre-prompted" message that I have programmed into the API request (see `apiRequestBody`), and generates a response that is displayed in the chat window.
+The chatbot is built using the GPT-3 language model by OpenAI. When a user asks a question, the chatbot processes the message, and adds on a custom "pre-prompted" message that I have programmed into the API request (see `apiRequestBody`), and generates a response that is displayed in the chat window. There were some hiccups along the way, but I am proud to say that this was my first app created using the GPT API and I plan for many more to come.
 
 To make the chatbot more interactive and engaging, I've added various features such as icons, typing indicators, and animations. These features help to create a more natural and conversational experience for the user.
 
