@@ -12,7 +12,7 @@ Welcome to my Ask-me-anything interview chatbot!
 
 This is a custom chatbot buit on GPT-3.5 that is designed to answer questions on my behalf and provide a modern version of a bio. Ask any question about me, and the AI Assistant will answer, in real time!
 
-# Behind the Curtain
+# The Journey of GPT-Interview-Bot
 
 ChatGPT has taken the world by storm over the last six months of its beta release. As an aspiring young developer, naturally I wanted to try my hand at making something with this cool new piece of tech while it was still relevant! At the same time, I had started preparing for the RBC Summer Tech Labs position, with applications opening up a few months away. Thinking ahead, I knew that I would need to make a portfolio website. Of course, I wanted some way to make it unique, because if you know anything about me, I will not settle for the default 😄. Thus came my idea: What if, instead of having a static webpage talking about myself, viewers could just ASK me? Before, I would have had to sit at my computer and answer each and every question, but with AI, this could be automated, I thought.
 
